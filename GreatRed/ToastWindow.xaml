@@ -1,0 +1,23 @@
+<Window x:Class="GreatRed.ToastWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Toast Notifications" 
+        Height="450" Width="320"
+        WindowStyle="None" 
+        AllowsTransparency="True" 
+        Background="Transparent"
+        ShowInTaskbar="False" 
+        Topmost="True" 
+        Focusable="False"
+        ShowActivated="False"
+        Loaded="Window_Loaded"
+        UseLayoutRounding="True"
+        SnapsToDevicePixels="True"
+        TextOptions.TextFormattingMode="Display"
+        TextOptions.TextRenderingMode="ClearType">
+    
+    <Grid Name="ToastGrid" VerticalAlignment="Bottom" HorizontalAlignment="Right" ClipToBounds="False">
+        <!-- Container Stack for Toasts (stacks bottom-up) -->
+        <StackPanel Name="ToastStackPanel" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="10" ClipToBounds="False"/>
+    </Grid>
+</Window>

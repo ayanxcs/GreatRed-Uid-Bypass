@@ -1,0 +1,17 @@
+E:\GreatRed\GreatRed\bin\Debug\net9.0-windows\GreatRed.exe
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\ToastWindow.baml
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\MainWindow.g.cs
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\ToastWindow.g.cs
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\App.g.cs
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed_MarkupCompile.cache
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed_MarkupCompile.lref
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\App.baml
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\MainWindow.baml
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.g.resources
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.GeneratedMSBuildEditorConfig.editorconfig
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.AssemblyInfoInputs.cache
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.AssemblyInfo.cs
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.csproj.CoreCompileInputs.cache
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.dll
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\refint\GreatRed.dll
+E:\GreatRed\GreatRed\obj\Debug\net9.0-windows\GreatRed.pdb

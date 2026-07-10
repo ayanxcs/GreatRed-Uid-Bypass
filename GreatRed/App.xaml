@@ -1,0 +1,36 @@
+<Application x:Class="GreatRed.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GreatRed"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Color x:Key="CrimsonColor">#FF1E56</Color>
+        <Color x:Key="CrimsonHoverColor">#FF3E72</Color>
+        <Color x:Key="CrimsonActiveColor">#D60E41</Color>
+        <Color x:Key="BgDarkColor">#050404</Color>
+        <Color x:Key="PanelBgColor">#F50D0C0C</Color>
+        <Color x:Key="WidgetBgColor">#0F0E0E</Color>
+        <Color x:Key="WidgetBorderColor">#1E1C1C</Color>
+        <Color x:Key="TextMainColor">#EDE8E8</Color>
+        <Color x:Key="TextMutedColor">#7A7272</Color>
+
+        <SolidColorBrush x:Key="CrimsonBrush" Color="{StaticResource CrimsonColor}"/>
+        <SolidColorBrush x:Key="CrimsonHoverBrush" Color="{StaticResource CrimsonHoverColor}"/>
+        <SolidColorBrush x:Key="CrimsonActiveBrush" Color="{StaticResource CrimsonActiveColor}"/>
+        <SolidColorBrush x:Key="BgDarkBrush" Color="{StaticResource BgDarkColor}"/>
+        <SolidColorBrush x:Key="PanelBgBrush" Color="{StaticResource PanelBgColor}"/>
+        <SolidColorBrush x:Key="PanelBorderBrush" Color="{StaticResource CrimsonColor}" Opacity="0.18"/>
+        <SolidColorBrush x:Key="PanelBorderHoverBrush" Color="{StaticResource CrimsonColor}" Opacity="0.55"/>
+        <SolidColorBrush x:Key="WidgetBgBrush" Color="{StaticResource WidgetBgColor}"/>
+        <SolidColorBrush x:Key="WidgetBorderBrush" Color="{StaticResource WidgetBorderColor}"/>
+        <SolidColorBrush x:Key="TextMainBrush" Color="{StaticResource TextMainColor}"/>
+        <SolidColorBrush x:Key="TextMutedBrush" Color="{StaticResource TextMutedColor}"/>
+        <SolidColorBrush x:Key="TextHighlightBrush" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="CrimsonDimBrush" Color="{StaticResource CrimsonColor}" Opacity="0.09"/>
+
+        <Style x:Key="UIFont" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Plus Jakarta Sans, Segoe UI, sans-serif"/>
+            <Setter Property="Foreground" Value="{StaticResource TextMainBrush}"/>
+        </Style>
+    </Application.Resources>
+</Application>

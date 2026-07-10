@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GreatRed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.drag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.toast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.toast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\freefire.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\freefire.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\greatred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\greatred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|e:\\greatred\\greatred\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C95D25AE-DA73-4890-8051-4FDC13603758}|GreatRed\\GreatRed.csproj|solutionrelative:greatred\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.Download.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.Download.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.Download.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.Download.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.Download.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:14:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.Auth.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.Auth.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.Auth.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.Auth.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.Auth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:13:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.Drag.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.Drag.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.Drag.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.Drag.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.Drag.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:13:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.Navigation.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.Navigation.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.Navigation.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.Navigation.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.Navigation.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:13:47.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.Toast.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.Toast.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.Toast.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.Toast.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.Toast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:13:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.UI.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.UI.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.UI.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.UI.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:13:44.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "freefire.png",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\freefire.png",
+              "RelativeDocumentMoniker": "GreatRed\\freefire.png",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\freefire.png",
+              "RelativeToolTip": "GreatRed\\freefire.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-07-10T18:49:14.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToastWindow.xaml.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\ToastWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GreatRed\\ToastWindow.xaml.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\ToastWindow.xaml.cs",
+              "RelativeToolTip": "GreatRed\\ToastWindow.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwHgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T20:07:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToastWindow.xaml",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\ToastWindow.xaml",
+              "RelativeDocumentMoniker": "GreatRed\\ToastWindow.xaml",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\ToastWindow.xaml",
+              "RelativeToolTip": "GreatRed\\ToastWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-08T16:42:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GreatRed\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAvwH0CAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T19:57:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GreatRed.csproj",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\GreatRed.csproj",
+              "RelativeDocumentMoniker": "GreatRed\\GreatRed.csproj",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\GreatRed.csproj",
+              "RelativeToolTip": "GreatRed\\GreatRed.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T20:00:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAB8UAAAAAAAAAAAowGIVAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-07-08T19:04:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\GreatRed\\GreatRed\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GreatRed\\MainWindow.xaml",
+              "ToolTip": "E:\\GreatRed\\GreatRed\\MainWindow.xaml",
+              "RelativeToolTip": "GreatRed\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-08T16:42:06.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

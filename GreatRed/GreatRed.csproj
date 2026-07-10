@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RuntimeIdentifier>win-x86</RuntimeIdentifier>
+    <!-- High DPI: render at native monitor resolution instead of 96 DPI bitmap scaling -->
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="freefire1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="freefire.png" />
+  </ItemGroup>
+</Project>
