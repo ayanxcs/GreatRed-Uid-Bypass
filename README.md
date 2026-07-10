@@ -38,4 +38,4 @@ You can also visit:
 
 ---
 
-Made with care for developers who appreciate clean, professional, and modern desktop UI design.
+
